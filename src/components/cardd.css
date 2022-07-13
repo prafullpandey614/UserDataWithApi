@@ -1,0 +1,17 @@
+.users{
+    border: 2px solid black;
+    margin: 0.7em;
+    width:27%;
+    border-radius: 24px;
+}
+.container{
+    background-color: linear-gradient(#000046,#1CB5E0);
+}
+.cont{
+    background-color: linear-gradient(#000046,#1CB5E0);
+}
+.lod{
+    height: 70vh;
+    width: 30vw;
+    margin: 0 30%;
+}

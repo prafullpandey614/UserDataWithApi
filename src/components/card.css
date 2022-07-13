@@ -1,0 +1,36 @@
+.container{
+    width: 35%;
+    height: 250px;
+    margin : 2em auto;
+    background-color: palevioletred;
+    position: relative;
+    border-radius: 15px;
+    border : 2px solid orangered;
+}
+img{
+    
+
+    margin: 3em 1em;
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+h3{
+    position: absolute;
+    right: 0;
+    margin-top: 50px;
+    margin-right: 140px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-weight: bold;
+}
+p{
+    position: absolute;
+    right: 0;
+    margin-top:80px;
+    /* margin-right: 80px; */
+    margin-left: 140px;
+    direction: ltr;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 18px;
+    /* text-align: right; */
+}
